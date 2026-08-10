@@ -1,4 +1,7 @@
+<img width="5712" height="3213" alt="IMG_3133" src="https://github.com/user-attachments/assets/21047dfd-7019-4b50-8abe-1edd181ccc33" />
+<!--
 <img src="https://pbs.twimg.com/profile_banners/384134413/1389330603/1500x500">
+-->
 
 <!--
 **RobertoMachorro/RobertoMachorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
